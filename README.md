@@ -1,4 +1,4 @@
-# Fault_Classification
+# Fault_Segmentation
 
 ## ✨Objective
 
@@ -8,4 +8,4 @@ Built a complex CNN Model to detect fault by `pixel-wise classification`.Retrain
 ## ✨Evaluation 
 
 Following is an example, where the solid lines are **Faults** on a Seismic Image.
-![./Fault_prediction.png]
+[](./Fault_prediction.png)
